@@ -24,6 +24,8 @@ This app allows users to:
 - Streamlit
 - CSS (Custom UI)
 
-## 🚀 How to Run
-```bash
-streamlit run app.py
+## Demo Video
+https://drive.google.com/file/d/19BYi_SrlAPz9o9ApB_AN5p0xM1S2Y9qS/view?usp=sharing
+
+## Working Prototype
+https://ai-healthcare-app-szdjx7bntnzxdwmhznrbag.streamlit.app/
